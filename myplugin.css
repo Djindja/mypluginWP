@@ -1,0 +1,22 @@
+.single-post a.my-button {
+	color: #00ff00;
+	cursor: pointer;
+	font-size: 18px;
+}
+
+.single-post a.my-button.disable-button {
+	color: #ff0000;
+}
+
+.related-post-title h4 {
+	margin: 20px 0 10px 0;
+}
+
+.related-post-title h4 a {
+	font-size: 20px;
+}
+
+.related-post-content {
+	font-size: 15px;
+	margin-bottom: 60px;
+}
